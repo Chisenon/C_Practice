@@ -16,6 +16,6 @@ int main(void){
     } 
   }
 
-  printf("Šï” = %d \n‹ô” = %d \n•‰‚Ì” = %d ",b,a,c );
+  printf("å¥‡æ•° = %d \nå¶æ•° = %d \nè² ã®æ•° = %d ",b,a,c );
   return 0;
 }
